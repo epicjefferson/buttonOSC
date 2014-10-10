@@ -19,4 +19,5 @@ Make sure to substitute "localhost" with the destination device's ip address.
 Make sure to set [dumpOSC] to listen to the port being transmitted by the opposite device.
 ![dumpOSC](https://epicjefferson.files.wordpress.com/2014/10/dumposc.png)
 
-![OSCprotocol](https://docs.google.com/drawings/d/1wAG7VVWRZLQ_Gt673qnJcaQuxo04y9ZNKDu_ImknVbY/pub?w=458&h=190)
+Here's an example of how OSC needs to be setup.
+![OSCprotocol](https://docs.google.com/drawings/d/1wAG7VVWRZLQ_Gt673qnJcaQuxo04y9ZNKDu_ImknVbY/pub?w=916&amp;h=380)
